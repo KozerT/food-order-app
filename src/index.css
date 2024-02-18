@@ -257,8 +257,8 @@ h1 {
   border: 1px solid rgb(157, 90, 90);
   background-color: rgba(248, 100, 100, 20%);
   border-radius: 0.4rem;
-  padding: 2rem;
-  margin: 0 20%;
+  padding: 1rem;
+  margin: 2rem 20%;
 }
 
 @keyframes fade-slide-up {
